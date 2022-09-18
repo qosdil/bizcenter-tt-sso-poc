@@ -1,5 +1,7 @@
 # bizcenter-tiptip-sso-poc
 
+The `tiptip-sso-poc` and this app are a proof of concept of Cognito session integration between Tiptip main web app with the upcoming Tiptip Business Center web app.
+
 ## Prerequisites
 
 * macOS (Developed on macOS 12)
