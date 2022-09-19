@@ -23,7 +23,7 @@ Clone the repo in the same parent directory with the `tiptip-sso-poc` repo, for 
 
 Update your system's hosts file by inserting the following lines:
 
-    127.0.0.1	biznet.tiplocal.studio
+    127.0.0.1	bizcenter.tiplocal.studio
 
 ### Update Credential Values
 
@@ -40,7 +40,7 @@ Use your Javascript editor to open `/src/index.js` and update the credential val
 
 ## Result
 
-To see the result, use a web browser and visit https://biznet.tiplocal.studio:9001. You will see the Cognito username of a user signed in at https://tiplocal.studio.
+To see the result, use a web browser and visit https://bizcenter.tiplocal.studio:9001. You will see the Cognito username of a user signed in at https://tiplocal.studio.
 
 ***
 &copy; 2022 Tiptip.tv.
